@@ -3,9 +3,9 @@
 import React, { useRef } from "react";
 import { motion } from "framer-motion";
 import { 
-  Github, Linkedin, Mail, ExternalLink, 
-  Send, Zap, Music, Wallet,
-  ChevronLeft, ChevronRight, Trophy, Code2, Layout, Settings
+  Linkedin, Mail, ExternalLink, 
+  
+  ChevronLeft, ChevronRight, Code2, Layout, Settings
 } from "lucide-react";
 
 // --- Theme Constants ---
