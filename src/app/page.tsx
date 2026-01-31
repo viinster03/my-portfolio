@@ -129,7 +129,7 @@ export default function Portfolio() {
                 company: "SMU Teaching Assistant",
                 role: "Computational Thinking & Programming",
                 date: "Aug 2025 — Nov 2025",
-                desc: "I guided 40 students in python, reinforced fundamental programming concepts and provided detailed code feedback for labs."
+                desc: "I guided 40 students in Python, reinforced fundamental programming concepts and provided detailed code feedback for labs."
               }
             ].map((exp, i) => (
               <motion.div key={i} initial={{ opacity: 0, x: -20 }} whileInView={{ opacity: 1, x: 0 }} viewport={{ once: true }} className="relative pl-10">
